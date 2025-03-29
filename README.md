@@ -4,25 +4,24 @@ Feel free to check out my full GitHub resume!
 [GitHub](https://github.com/ianjuly4) | [LinkedIn](https://www.linkedin.com/in/ianjuly/) | [Medium](https://medium.com/@ianjuly4) | [Gmail](ianjuly4@gmail.com) |
 
 🌱 About Me:
-I'm a Software Engineer and a recent graduate of Flatiron School's Full Stack Web Development Bootcamp. I’m passionate about building efficient, scalable software solutions and continuously improving my skills in Python, React, JavaScript, and Flask.
+I'm a new software developer who recently graduated from Flatiron School's Full Stack Web Development Bootcamp. I'm passionate about learning to code and building efficient, scalable software solutions. Currently, I’m diving deep into Python, React, JavaScript, and Flask.
 
-🧑‍💻 Currently, I'm focused on:
-
-Building clean, maintainable code and mastering full-stack development.
-
-Exploring different software engineering concepts like data structures, algorithms, and databases.
-
-👯 I'm open to collaboration opportunities in the tech industry, especially within web development, open-source projects, and software engineering. I’m eager to contribute to innovative projects and work with like-minded teams!
+🚀 I’m just getting started in the tech world and I'm working hard to break into software development. I’m eager to build on my foundation and continuously improve my skills.
 
 🧠 Currently Learning:
-Mastering JavaScript and React frameworks.
+Mastering JavaScript and React for front-end development.
 
-Diving deep into SQL and database management.
+Diving into Flask and Python for back-end development.
 
-Focusing on back-end technologies like Flask and Python.
+Working to improve my understanding of data structures and algorithms as I prepare for a successful career in software development.
+
+👯 Collaboration & Mentorship:
+I'm looking for opportunities to collaborate on open-source projects or with development teams.
+
+Mentorship and guidance as I transition into the tech workforce would be greatly appreciated. If you have any tips or resources for a newcomer, I'd love to connect!
 
 🌟 Fun Fact:
-When I'm not coding, you can find me searching for new music at a local coffee shop!
+When I'm not coding, you’ll find me experimenting with new technologies or enjoying a good cup of coffee! ☕️
 
 📚 Project Demos:
 Denver Restaurant Finder: A React app that helps users find and track local restaurant recommendations with interactive search features.
@@ -30,12 +29,11 @@ Denver Restaurant Finder: A React app that helps users find and track local rest
 Pokémon Trainer: A Python command-line app to manage Pokémon data using object-oriented principles.
 
 💬 Feel free to reach out to me if:
-You're looking fill a postion.
-
 You’re looking for a collaborator on a project.
 
-You have mentorship opportunities for someone starting their career in software engineering.
+You’re open to providing mentorship for someone new to software development.
 
-You want to talk about technology, coding, or software development in general!
+You want to chat about coding, web development, or tech in general!
 
 👉 Pronouns: He/Him/His
+
