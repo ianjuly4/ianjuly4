@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Ian July. 😄
 Feel free to check out my full GitHub resume!
 
-[GitHub](https://github.com/ianjuly4) | [LinkedIn](https://www.linkedin.com/in/ianjuly/) | [Medium](https://medium.com/@ianjuly4) | ianjuly4@gmail.com |
+[GitHub](https://github.com/ianjuly4) | [LinkedIn](https://www.linkedin.com/in/ianjuly/) | [Medium](https://medium.com/@ianjuly4) | [Gmail](ianjuly4@gmail.com) |
 
 🌱 About Me:
 I'm a Software Engineer and a recent graduate of Flatiron School's Full Stack Web Development Bootcamp. I’m passionate about building efficient, scalable software solutions and continuously improving my skills in Python, React, JavaScript, and Flask.
@@ -22,7 +22,7 @@ Diving deep into SQL and database management.
 Focusing on back-end technologies like Flask and Python.
 
 🌟 Fun Fact:
-When I'm not coding, you can find me experimenting with new web development trends or enjoying a nice cup of coffee!
+When I'm not coding, you can find me searching for new music at a local coffee shop!
 
 📚 Project Demos:
 Denver Restaurant Finder: A React app that helps users find and track local restaurant recommendations with interactive search features.
@@ -30,6 +30,8 @@ Denver Restaurant Finder: A React app that helps users find and track local rest
 Pokémon Trainer: A Python command-line app to manage Pokémon data using object-oriented principles.
 
 💬 Feel free to reach out to me if:
+You're looking fill a postion.
+
 You’re looking for a collaborator on a project.
 
 You have mentorship opportunities for someone starting their career in software engineering.
