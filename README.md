@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Ian July. 😄
 Feel free to check out my full GitHub resume!
 
-GitHub | LinkedIn | Medium | Gmail | Twitter
+[GitHub](https://github.com/ianjuly) | LinkedIn | Medium | Gmail | Twitter
 
 🌱 About Me:
 I'm a Software Engineer and a recent graduate of Flatiron School's Full Stack Web Development Bootcamp. I’m passionate about building efficient, scalable software solutions and continuously improving my skills in Python, React, JavaScript, and Flask.
