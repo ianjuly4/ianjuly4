@@ -1,5 +1,5 @@
 #### 👋 Hi there! I'm Ian July. 😄
-[Feel free to check out my full GitHub resume!](ianjuly4/ianjuly-resume)
+[Feel free to check out my full GitHub resume!](ianjuly-resume)
 
 [GitHub](https://github.com/ianjuly4) | [LinkedIn](https://www.linkedin.com/in/ianjuly/) | [Medium](https://medium.com/@ianjuly4) | [Gmail](ianjuly4@gmail.com) |
 
