@@ -21,7 +21,7 @@ I'm looking for opportunities to collaborate on open-source projects or with dev
 Mentorship and guidance as I transition into the tech workforce would be greatly appreciated. If you have any tips or resources for a newcomer, I'd love to connect!
 
 🌟 Fun Fact:
-When I'm not coding, you’ll searching for new music at a local brewery!
+When I'm not coding, you’ll find me searching for new music at a local brewery!
 
 📚 Project Demos:
 Denver Restaurant Finder: A React app that helps users find and track local restaurant recommendations with interactive search features.
