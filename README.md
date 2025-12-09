@@ -23,10 +23,14 @@ Mentorship and guidance as I transition into the tech workforce would be greatly
 🌟 Fun Fact:
 When I'm not coding, you’ll find me searching for new music at a local brewery!
 
-📚 Project Demos:
+📚 Projects:
 Denver Restaurant Finder: A React app that helps users find and track local restaurant recommendations with interactive search features.
 
 Pokémon Trainer: A Python command-line app to manage Pokémon data using object-oriented principles.
+
+Monstrum: A Phaser sidescrolling action game (not complete).
+
+Tattered Page: A web page that utilizes google books api to catelog users' favorite books.
 
 💬 Feel free to reach out to me if:
 You’re looking for a collaborator on a project.
