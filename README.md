@@ -28,13 +28,14 @@ Denver Restaurant Finder: A React app that helps users find and track local rest
 
 Pokémon Trainer: A Python command-line app to manage Pokémon data using object-oriented principles.
 
-Monstrum: A Phaser sidescrolling action game (not complete).
+Monstrum: A Phaser sidescrolling action game(in production).
+
+Taskquest: A task manager that utilizes React, Python, Electron, and Phaser. This is a basic task manager where the completion of the character's quest is dependent on the completion of the user's tasks (in production).
 
 Tattered Page: A web page that utilizes google books api to catalog users' favorite books.
 
-Tattered Page 2.0: A web page that utilizes google books api and library api to catalog user's favorite books, websockets to converse with other book lovers about their favorite books, and an ai to help users try their hands at writing. 
+Tattered Page 2.0: A web page that utilizes google books api and library api to catalog user's favorite books, websockets to converse with other book lovers about their favorite books, and an ai to help users try their hands at writing(in production). 
 
-Taskquest: A task manager that utilizes React, Python, Electron, and Phaser. This is a basic task manager where the completion of the character's quest is dependent on the completion of the user's tasks.
 
 💬 Feel free to reach out to me if:
 You’re looking for a collaborator on a project.
