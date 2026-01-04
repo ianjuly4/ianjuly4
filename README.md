@@ -1,4 +1,4 @@
-#### 👋 Hi there! I'm Ian July. 😄
+####  Hi there! I'm Ian July.
 
 
 [GitHub](https://github.com/ianjuly4) | [LinkedIn](https://www.linkedin.com/in/ianjuly/) | [Medium](https://medium.com/@ianjuly4) | ianjuly4@gmail.com |
