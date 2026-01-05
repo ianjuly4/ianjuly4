@@ -9,7 +9,7 @@ I'm a new software developer who recently graduated from Flatiron School's Full 
 I’m just getting started in the tech world and I'm working hard to break into software development. I’m eager to build on my foundation and continuously improve my skills.
 
 Currently Learning:
-Mastering JavaScript and React for front-end development.
+Mastering and honing my skills to take on full-stack roles.
 
 Diving into Flask and Python for back-end development.
 
