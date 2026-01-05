@@ -2,7 +2,6 @@
 
 
 [GitHub](https://github.com/ianjuly4) | [LinkedIn](https://www.linkedin.com/in/ianjuly/) | [Medium](https://medium.com/@ianjuly4) | ianjuly4@gmail.com |
-
 About Me:
 I'm a new software developer who recently graduated from Flatiron School's Full Stack Web Development Bootcamp. I'm passionate about learning to code and building efficient, scalable software solutions. Currently, I’m diving deep into Python, React, JavaScript, and Flask.
 
